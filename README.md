@@ -4,5 +4,6 @@ omnifood-marv is an AI powered meal source to help individuals eat well and it i
 its major purpose is to ease individuals the stress of cooking, while adding value to their nutrition.
 
 i built this site using html5 and CSS3 and little of javascript.
+its is functional on both desktop and mobile. and can adapt to all screen resolutions.
 
 this site is deployed on netlify using a free host and i made the forms work using netlify forms.
